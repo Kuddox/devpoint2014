@@ -1,0 +1,7 @@
+Tic-Tac-Toe Pseudo Code
+
+OBJECTIVE:
+Player vs. CPU.
+3x3 grid and players alternate turns until one player is a winner with three consecutive positions on a row, column, or diagonal.
+	- The game can also end in a draw. (All spots are taken)
+

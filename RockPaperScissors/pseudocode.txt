@@ -1,0 +1,21 @@
+Rock, Paper, Scissors Pseudo Code
+
+- player chooses rock, paper, or scissors
+	- puts out options
+	- gets player_choice variable
+	-	bonus: make sure a user can't choose something else.
+- computer chooses rock, aper, or scissors
+	- set computer_choice to be rock, paper, or scissors at random.
+- determine a winner, loser, or tie
+	- use if statements or case statements to check all outcomes.
+		- paper beats rock
+		- rock beats scissors
+		- scissors beat paper
+		- tie
+- display winner
+	- puts winner
+
+bonus: loop to allow multiple game plays
+bonus: keep track of score over multiple game plays
+
+SUPER BONUS: pseudocode and start tic tac toe
